@@ -1,9 +1,8 @@
 # POC Plan: AI Ad Agency over Telegram
 
-A one-week proof-of-concept that turns the orchestration patterns from
-[`2_openai/2_lab2.ipynb`](../2_openai/2_lab2.ipynb) into a small "ad agency"
+A one-week proof-of-concept that uses orchestration to build an "ad agency"
 of agents that pitches an indie author's book to a prospective buyer over
-Telegram, and keeps the conversation going to try to close a sale.
+Telegram, and keeps the conversation going to close a sale.
 
 ## 1. Goal & Scope
 
