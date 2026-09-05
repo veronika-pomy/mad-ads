@@ -1,0 +1,9 @@
+{
+  "target_reader": {
+    "age_range": "REPLACE_ME",
+    "reads": ["REPLACE_ME"],
+    "comp_titles": ["REPLACE_ME"],
+    "platforms": ["REPLACE_ME"],
+    "turn_offs": ["REPLACE_ME"]
+  }
+}
